@@ -8,3 +8,7 @@ We will prioritize blogs on the list by those who also do not require cookies, a
 Want to get on the list? Simply create an issue with the title of your blog and link for review.
 
 Happy blogging and reading!
+
+## Blogroll
+
+1. [Brandon Writes](www.brandonwrites.xyz)
