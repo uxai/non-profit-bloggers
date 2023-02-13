@@ -14,6 +14,7 @@ Create a Pull reuqest or create a new issue with the following information:
 1. Category
 2. Title of the blog
 3. URL
+4. (Optional) Emoji that represents your blog, this will be displayed before the name of your blog.
 
 ### Removal of websites from the list
 Every once in a while I may go through the list to see which blogs are still active.
