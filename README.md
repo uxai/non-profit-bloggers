@@ -1,7 +1,11 @@
 # Non Profit bloggers
 It's hard nowadays to find people who write for the joy of writing. I hope to compile a list of blogs from people who find joy in writing.
 
-To be added to this list, your blog shouldn't have any ads and selling services/merchandise shouldn't be the primary target.
+To be added to this list, your blog should meet the following criteria: 
+1. No ads
+2. Selling services/merchandise shouldn't be the primary goal
+3. Sponsored posts should be at a bare minimum
+4. Your blog shouldn't be written by AI
 
 We will prioritize blogs on the list by those who also do not require cookies, and have minimal to know data tracking.
 
