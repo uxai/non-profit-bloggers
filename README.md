@@ -5,7 +5,7 @@ To be added to this list, your blog shouldn't have any ads and selling services/
 
 We will prioritize blogs on the list by those who also do not require cookies, and have minimal to know data tracking.
 
-Want to get on the list? Simply create an issue with the title of your blog and link for review.
+Want to get on the list? Simply create a PR or new issue with the title of your blog and link for review.
 
 Happy blogging and reading!
 
