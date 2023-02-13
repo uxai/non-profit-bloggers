@@ -7,9 +7,18 @@ To be added to this list, your blog should meet the following criteria:
 3. Sponsored posts should be at a bare minimum
 4. Your blog shouldn't be written by AI
 
-We will prioritize blogs on the list by those who also do not require cookies, and have minimal to know data tracking.
+We will prioritize blogs on the list by those who also do not require cookies, and have minimal data tracking. 
 
-Want to get on the list? Simply create a PR or new issue with the title of your blog, category and link for review. If you find a blog in the list has gone in the way of ads or extensive tracking or has shutdown, please let me know and I will remove it from the list.
+**Submit your website**
+Create a Pull reuqest or create a new issue with the following information:
+1. Category
+2. Title of the blog
+3. URL
+
+**Removal of websites from the list**
+Every once in a while I may go through the list to see which blogs are still active.
+
+If you find a blog in the list has gone in the way of ads or extensive tracking or has simply shutdown, please flag it so it may be removed.
 
 Happy blogging and reading!
 
