@@ -5,10 +5,11 @@ To be added to this list, your blog shouldn't have any ads and selling services/
 
 We will prioritize blogs on the list by those who also do not require cookies, and have minimal to know data tracking.
 
-Want to get on the list? Simply create a PR or new issue with the title of your blog and link for review.
+Want to get on the list? Simply create a PR or new issue with the title of your blog and link for review. If you find a blog in the list has gone in the way of ads or extensive tracking, please let me know and I will remove it from the list.
 
 Happy blogging and reading!
 
 ## Blogroll
 
+### Hobby / Life
 1. [Brandon Writes](www.brandonwrites.xyz)
