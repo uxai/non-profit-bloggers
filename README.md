@@ -26,4 +26,4 @@ Happy blogging and reading!
 ## Blogroll
 
 ### Hobby / Life
-1. [Brandon Writes](www.brandonwrites.xyz)
+1. [Brandon Writes](https://www.brandonwrites.xyz)
