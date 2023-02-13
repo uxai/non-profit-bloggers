@@ -1,5 +1,5 @@
 # Non Profit bloggers
-It's hard nowadays to find people who write for the joy of writing. I hope to compile a list of blogs in this Readme of people who find joy in writing.
+It's hard nowadays to find people who write for the joy of writing. I hope to compile a list of blogs from people who find joy in writing.
 
 To be added to this list, your blog shouldn't have any ads and selling services/merchandise shouldn't be the primary target.
 
