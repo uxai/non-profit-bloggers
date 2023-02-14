@@ -27,3 +27,6 @@ Happy blogging and reading!
 
 ### Hobby / Life
 1. [Brandon Writes](https://www.brandonwrites.xyz)
+
+### Mish mash of things
+1. ☕️ [kopimopi](https://kopimopi.com)
