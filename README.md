@@ -15,6 +15,7 @@ Create a Pull reuqest or create a new issue with the following information:
 2. Title of the blog
 3. URL
 4. (Optional) Emoji that represents your blog, this will be displayed before the name of your blog.
+5. Let me know the Author name to feature and if you would like to link your github.
 
 ### Removal of websites from the list
 Every once in a while I may go through the list to see which blogs are still active.
