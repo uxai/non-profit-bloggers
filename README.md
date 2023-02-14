@@ -30,3 +30,4 @@ Happy blogging and reading!
 | [Brandon Writes](https://www.brandonwrites.xyz)      | Brandon     | Hobby/Life
 | ☕️ [kopimopi](https://kopimopi.com)   | [uxai](https://github.com/uxai)       | Assorted topics
 | 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal/Random
+| 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing
