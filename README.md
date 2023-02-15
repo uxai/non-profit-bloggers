@@ -32,3 +32,4 @@ Happy blogging and reading!
 | ☕️ [kopimopi](https://kopimopi.com)   | [Matthew](https://github.com/uxai)       | Assorted topics
 | 🚀 [Mr James Bell](mrjamesbell.com)   | mrjamesbell        | Personal
 |  [Steelsnowflake](https://www.steelsnowflake.org/)   | Paul Wilke        | Arts & Humanities
+|  [The View from Fanling](https://dennishodgson.blogspot.com)   | Dennis Hodgson        | Personal
