@@ -33,3 +33,4 @@ Happy blogging and reading!
 | 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing
 | ☕️ [kopimopi](https://kopimopi.com)   | [Matthew](https://github.com/uxai)       | Assorted topics
 | 🚀 [Mr James Bell](mrjamesbell.com)   | mrjamesbell        | Personal
+|  [Steelsnowflake](https://www.steelsnowflake.org/)   | Paul Wilke        | Arts & Humanities - Author
