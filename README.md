@@ -31,5 +31,5 @@ Happy blogging and reading!
 | 🖖 [Brandon Writes](https://www.brandonwrites.xyz)      | Brandon     | Hobby/Life
 | 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal/Random
 | 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing
-| ☕️ [kopimopi](https://kopimopi.com)   | [uxai](https://github.com/uxai)       | Assorted topics
+| ☕️ [kopimopi](https://kopimopi.com)   | [Matthew](https://github.com/uxai)       | Assorted topics
 | 🚀 [Mr James Bell](mrjamesbell.com)   | mrjamesbell        | Personal
