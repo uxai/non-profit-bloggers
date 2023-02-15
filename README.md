@@ -7,8 +7,6 @@ To be added to this list, your blog should meet the following criteria:
 3. Sponsored posts should be at a bare minimum
 4. Your blog shouldn't be written by AI
 
-We will prioritize blogs on the list by those who also do not require cookies, and have minimal data tracking. 
-
 ### Submit your website
 Create a Pull reuqest or create a new issue with the following information:
 1. Category
