@@ -3,7 +3,7 @@ It's hard nowadays to find people who write for the joy of writing. I hope to co
 
 If you would like to share your passion of writing without the need of monetary motivation - I've created a badge below you may display on your blog and link to this page.
 
-![image](https://raw.githubusercontent.com/uxai/non-profit-bloggers/main/nonprofit-blogger-badge.svg)
+![image](https://raw.githubusercontent.com/uxai/non-profit-bloggers/main/nonprofit-blogger-badge.svg) ![image](https://raw.githubusercontent.com/uxai/non-profit-bloggers/main/nonprofit-blogger-badge-green.svg) ![image](https://raw.githubusercontent.com/uxai/non-profit-bloggers/main/nonprofit-blogger-badge-red.svg)
 
 Replace the image URL represented as `{badge link here}` with the proper URL from your own server:
 
