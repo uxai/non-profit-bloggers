@@ -1,4 +1,4 @@
-# Non Profit bloggers
+# 💜 Non Profit bloggers
 It's hard nowadays to find people who write for the joy of writing. I hope to compile a list of blogs from people who find joy in writing.
 
 If you would like to share your passion of writing without the need of monetary motivation - I've created a badge below you may display on your blog and link to this page.
@@ -12,14 +12,14 @@ Replace the image URL represented as `{badge link here}` with the proper URL fro
   <img src="{badge link here}" alt="Non-profit bloggers badge">
 </a>
 ```
-
+### ✅ Criteria
 To be added to this list, your blog should meet the following criteria: 
 1. No ads
 2. Selling services/merchandise shouldn't be the primary goal
 3. Sponsored posts should be at a bare minimum
 4. Your blog shouldn't be written by AI
 
-### Submit your website
+### 📬 Submit your website
 Create a Pull reuqest or create a new issue with the following information:
 1. Category
 2. Title of the blog
@@ -27,14 +27,14 @@ Create a Pull reuqest or create a new issue with the following information:
 4. (Optional) Emoji that represents your blog, this will be displayed before the name of your blog.
 5. Let me know the Author name to feature and if you would like to link your github.
 
-### Removal of websites from the list
+### 🙅 Removal of websites from the list
 Every once in a while I may go through the list to see which blogs are still active.
 
 If you find a blog in the list has gone in the way of ads or extensive tracking or has simply shutdown, please flag it so it may be removed.
 
 Happy blogging and reading!
 
-## Blogroll
+## 🖋 Blogroll
 
 | Blog        | Author      | Description |
 | ----------- | ----------- | ----------- |
