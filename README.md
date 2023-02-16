@@ -14,10 +14,10 @@ Replace the image URL represented as `{badge link here}` with the proper URL fro
 ```
 ### ✅ Criteria
 To be added to this list, your blog should meet the following criteria: 
-1. No ads
-2. Selling services/merchandise shouldn't be the primary goal
-3. Sponsored posts should be at a bare minimum
-4. Your blog shouldn't be written by AI
+* No ads
+* Selling services/merchandise shouldn't be the primary goal
+* Sponsored posts should be at a bare minimum
+* Your blog should not be written by AI in any way shape or form
 
 ### 📬 Submit your website
 Create a Pull reuqest or create a new issue with the following information:
