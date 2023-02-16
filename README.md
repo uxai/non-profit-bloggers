@@ -1,4 +1,4 @@
-# 💜 Non Profit bloggers
+# 💜 Non-profit bloggers
 It's hard nowadays to find people who write for the joy of writing. I hope to compile a list of blogs from people who find joy in writing.
 
 If you would like to share your passion of writing without the need of monetary motivation - I've created a badge below you may display on your blog and link to this page.
