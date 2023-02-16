@@ -38,6 +38,7 @@ Happy blogging and reading!
 
 | Blog        | Author      | Description |
 | ----------- | ----------- | ----------- |
+|  [Alan Ralph - Wearer Of Many Hats](https://alanralph.co.uk)   | Alan Ralph        | Personal
 | 🖖 [Brandon Writes](https://www.brandonwrites.xyz)      | Brandon     | Hobby/Life
 | 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal/Random
 | 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing
