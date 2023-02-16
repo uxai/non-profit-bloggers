@@ -1,6 +1,18 @@
 # Non Profit bloggers
 It's hard nowadays to find people who write for the joy of writing. I hope to compile a list of blogs from people who find joy in writing.
 
+If you would like to share your passion of writing without the need of monetary motivation - I've created a badge below you may display on your blog and link to this page.
+
+![image](https://raw.githubusercontent.com/uxai/non-profit-bloggers/main/nonprofit-blogger-badge.svg)
+
+Replace the image URL represented as `{badge link here}` with the proper URL from your own server:
+
+```html
+<a href="https://github.com/uxai/non-profit-bloggers/" target="_blank">
+  <img src="{badge link here}" alt="Non-profit bloggers badge">
+</a>
+```
+
 To be added to this list, your blog should meet the following criteria: 
 1. No ads
 2. Selling services/merchandise shouldn't be the primary goal
