@@ -42,6 +42,7 @@ Happy blogging and reading!
 | 🖖 [Brandon Writes](https://www.brandonwrites.xyz)      | Brandon     | Hobby/Life
 | 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal/Random
 | 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing
+| 🌊 [Heed Not The Rolling Wave](https://adamenglebright.com/)   | [Adam Englebright](https://github.com/adamenglebright)        | Personal/Assorted
 | ☕️ [kopimopi](https://kopimopi.com)   | [Matthew](https://github.com/uxai)       | Assorted topics
 | 🚀 [Mr James Bell](https://mrjamesbell.com)   | mrjamesbell        | Personal
 |  [Steelsnowflake](https://www.steelsnowflake.org/)   | Paul Wilke        | Arts & Humanities
