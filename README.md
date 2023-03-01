@@ -20,7 +20,7 @@ To be added to this list, your blog should meet the following criteria:
 * Your blog should not be written by AI in any way shape or form
 
 ### 📬 Submit your website
-Create a Pull reuqest or create a new issue with the following information:
+Create a Pull request or create a new issue with the following information:
 1. Category
 2. Title of the blog
 3. URL
@@ -38,11 +38,14 @@ Happy blogging and reading!
 
 | Blog        | Author      | Description |
 | ----------- | ----------- | ----------- |
+|  [Manuel Moreale](https://manuelmoreale.com)   | Manuel Moreale        | Personal / Photography
+|  [Carl Barenbrug](https://cmhb.de)   | Carl MH Barenbrug        | Personal / Design / Minimalism
+|  [Rob Hope](https://robhope.com)   | Rob Hope        | Personal / Web
 |  [Alan Ralph - Wearer Of Many Hats](https://alanralph.co.uk)   | Alan Ralph        | Personal
-| 🖖 [Brandon Writes](https://www.brandonwrites.xyz)      | Brandon     | Hobby/Life
-| 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal/Random
+| 🖖 [Brandon Writes](https://www.brandonwrites.xyz)      | Brandon     | Hobby / Life
+| 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal / Random
 | 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing
-| 🌊 [Heed Not The Rolling Wave](https://adamenglebright.com/)   | [Adam Englebright](https://github.com/adamenglebright)        | Personal/Assorted
+| 🌊 [Heed Not The Rolling Wave](https://adamenglebright.com/)   | [Adam Englebright](https://github.com/adamenglebright)        | Personal / Assorted
 | ☕️ [kopimopi](https://kopimopi.com)   | [Matthew](https://github.com/uxai)       | Assorted topics
 | 🚀 [Mr James Bell](https://mrjamesbell.com)   | mrjamesbell        | Personal
 |  [Steelsnowflake](https://www.steelsnowflake.org/)   | Paul Wilke        | Arts & Humanities
