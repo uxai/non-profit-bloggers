@@ -24,6 +24,7 @@ Create a Pull request or create a new issue with the following information:
 1. Category
 2. Title of the blog
 3. URL
+4. RSS Feed URL
 4. (Optional) Emoji that represents your blog, this will be displayed before the name of your blog.
 5. Let me know the Author name to feature and if you would like to link your github.
 
@@ -36,17 +37,20 @@ Happy blogging and reading!
 
 ## 🖋 Blogroll
 
-| Blog        | Author      | Description |
-| ----------- | ----------- | ----------- |
-|  [Alan Ralph - Wearer Of Many Hats](https://alanralph.co.uk)   | Alan Ralph        | Personal
-| 🖖 [Brandon Writes](https://www.brandonwrites.xyz)      | Brandon     | Hobby / Life
-|  [Carl Barenbrug](https://cmhb.de)   | Carl MH Barenbrug        | Personal / Design / Minimalism
-| 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal / Random
-| 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing
-| 🌊 [Heed Not The Rolling Wave](https://adamenglebright.com/)   | [Adam Englebright](https://github.com/adamenglebright)        | Personal / Assorted
-| ☕️ [kopimopi](https://kopimopi.com)   | [Matthew](https://github.com/uxai)       | Assorted topics
-|  [Manuel Moreale](https://manuelmoreale.com)   | Manuel Moreale        | Personal / Photography
-| 🚀 [Mr James Bell](https://mrjamesbell.com)   | mrjamesbell        | Personal
-|  [Rob Hope](https://robhope.com)   | Rob Hope        | Personal / Web
-|  [Steelsnowflake](https://www.steelsnowflake.org/)   | Paul Wilke        | Arts & Humanities
-|  [The View from Fanling](https://dennishodgson.blogspot.com)   | Dennis Hodgson        | Personal
+| Blog        | Author      | Description | RSS Feed |
+| ----------- | ----------- | ----------- | ----------- |
+|  [Alan Ralph - Wearer Of Many Hats](https://alanralph.co.uk)   | Alan Ralph        | Personal | Feed |
+| 🖖 [Brandon Writes](https://www.brandonwrites.xyz)      | Brandon     | Hobby / Life | Feed |
+|  [Carl Barenbrug](https://cmhb.de)   | Carl MH Barenbrug        | Personal / Design / Minimalism | Feed |
+| 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal / Random | Feed |
+| 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing | Feed |
+| 🌊 [Heed Not The Rolling Wave](https://adamenglebright.com/)   | [Adam Englebright](https://github.com/adamenglebright)        | Personal / Assorted | Feed |
+| ☕️ [kopimopi](https://kopimopi.com)   | [Matthew](https://github.com/uxai)       | Assorted topics | Feed |
+|  [Manuel Moreale](https://manuelmoreale.com)   | Manuel Moreale        | Personal / Photography | Feed |
+| 🚀 [Mr James Bell](https://mrjamesbell.com)   | mrjamesbell        | Personal | Feed |
+| 🖤 [Oblivion With Bells](https://oblivionwithbells.com/m)   | [Dave Underwood](https://github.com/dave-underwood)        | Psychology/Existentialism | Feed |
+| 🫠 [[redacted identity]](https://sus.fr/en/blog/)   | Kévin        | Personal / Rambling | Feed |
+|  [Rob Hope](https://robhope.com)   | Rob Hope        | Personal / Web | Feed |
+|  [Steelsnowflake](https://www.steelsnowflake.org/)   | Paul Wilke        | Arts & Humanities | Feed |
+|  [The View from Fanling](https://dennishodgson.blogspot.com)   | Dennis Hodgson        | Personal | Feed |
+| 👋 [This is the internet weblog of Bix Frankonis.](https://bix.blog)   | Bix Frankonis       | Personal / Actually-Autistic / Random | Feed |
