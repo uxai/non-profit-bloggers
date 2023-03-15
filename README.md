@@ -35,6 +35,12 @@ If you find a blog in the list has gone in the way of ads or extensive tracking 
 
 Happy blogging and reading!
 
+## Discord
+
+I have started a discord server for those who are/want to be on the list and would like to collaborate with other writers and bloggers such as yourself.
+
+[Join Discord Server](https://discord.gg/ek3VQeHpph)
+
 ## 🖋 Blogroll
 
 | Blog        | Author      | Description | RSS Feed |
