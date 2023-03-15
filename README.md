@@ -43,6 +43,7 @@ Happy blogging and reading!
 | 🖖 [Brandon Writes](https://www.brandonwrites.xyz)      | Brandon     | Hobby / Life | Feed |
 |  [Carl Barenbrug](https://cmhb.de)   | Carl MH Barenbrug        | Personal / Design / Minimalism | Feed |
 | 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal / Random | Feed |
+| [d-s](https://d-s.sh)   | d-s       | Personal / Tech / Media | [Feed](https://d-s.sh/index.xml) |
 | 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing | Feed |
 | 🌊 [Heed Not The Rolling Wave](https://adamenglebright.com/)   | [Adam Englebright](https://github.com/adamenglebright)        | Personal / Assorted | Feed |
 | ☕️ [kopimopi](https://kopimopi.com)   | [Matthew](https://github.com/uxai)       | Assorted topics | Feed |
