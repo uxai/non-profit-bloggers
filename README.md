@@ -53,6 +53,7 @@ I have started a discord server for those who are/want to be on the list and wou
 | 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing | Feed |
 | 🌊 [Heed Not The Rolling Wave](https://adamenglebright.com/)   | [Adam Englebright](https://github.com/adamenglebright)        | Personal / Assorted | Feed |
 | ☕️ [KOPIGRAM](https://kopigram.com)   | [Matthew](https://github.com/uxai)       | Assorted topics | Feed |
+| 🤌🏽 [Luke Alex Davis](https://lukealexdavis.co.uk/)   | Luke Alex Davis       | Personal | [Feed](https://lukealexdavis.co.uk/blog.xml) |
 |  [Manuel Moreale](https://manuelmoreale.com)   | Manuel Moreale        | Personal / Photography | Feed |
 | 🚀 [Mr James Bell](https://mrjamesbell.com)   | mrjamesbell        | Personal | Feed |
 | 🖤 [Oblivion With Bells](https://oblivionwithbells.com/m)   | [Dave Underwood](https://github.com/dave-underwood)        | Psychology/Existentialism | Feed |
