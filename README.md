@@ -52,7 +52,7 @@ I have started a discord server for those who are/want to be on the list and wou
 | [d-s](https://d-s.sh)   | d-s       | Personal / Tech / Media | [Feed](https://d-s.sh/index.xml) |
 | 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing | Feed |
 | 🌊 [Heed Not The Rolling Wave](https://adamenglebright.com/)   | [Adam Englebright](https://github.com/adamenglebright)        | Personal / Assorted | Feed |
-| ☕️ [KOPIGRAM](https://kopigram.com)   | [Matthew](https://github.com/uxai)       | Assorted topics | Feed |
+| ☕️ [KOPIGRAM](https://kopigram.com)   | [Matthew](https://github.com/uxai)       | Assorted topics | [Feed](https://rss.app/feeds/kOaduVouVIsxBsiU.xml) |
 | 🤌🏽 [Luke Alex Davis](https://lukealexdavis.co.uk/)   | Luke Alex Davis       | Personal | [Feed](https://lukealexdavis.co.uk/blog.xml) |
 |  [Manuel Moreale](https://manuelmoreale.com)   | Manuel Moreale        | Personal / Photography | Feed |
 | 🚀 [Mr James Bell](https://mrjamesbell.com)   | mrjamesbell        | Personal | Feed |
