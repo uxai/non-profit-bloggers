@@ -51,6 +51,7 @@ I have started a discord server for those who are/want to be on the list and wou
 | 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal / Random | Feed |
 | [d-s](https://d-s.sh)   | d-s       | Personal / Tech / Media | [Feed](https://d-s.sh/index.xml) |
 | 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing | Feed |
+| 🌱 [foreverliketh.is](https://foreverliketh.is/blog/) | foreverliketh.is | Personal / Education / Psychology | [Feed](https://foreverliketh.is/blog/index.xml) |
 | 🌊 [Heed Not The Rolling Wave](https://adamenglebright.com/)   | [Adam Englebright](https://github.com/adamenglebright)        | Personal / Assorted | Feed |
 | ☕️ [KOPIGRAM](https://kopigram.com)   | [Matthew](https://github.com/uxai)       | Assorted topics | [Feed](https://rss.app/feeds/kOaduVouVIsxBsiU.xml) |
 | 🤌🏽 [Luke Alex Davis](https://lukealexdavis.co.uk/)   | Luke Alex Davis       | Personal | [Feed](https://lukealexdavis.co.uk/blog.xml) |
