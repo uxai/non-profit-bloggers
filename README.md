@@ -58,7 +58,6 @@ I have started a discord server for those who are/want to be on the list and wou
 |  [Manuel Moreale](https://manuelmoreale.com)   | Manuel Moreale        | Personal / Photography | Feed |
 | 🚀 [Mr James Bell](https://mrjamesbell.com)   | mrjamesbell        | Personal | Feed |
 | 🖤 [Oblivion With Bells](https://oblivionwithbells.com/m)   | [Dave Underwood](https://github.com/dave-underwood)        | Psychology/Existentialism | Feed |
-| 🫠 [[redacted identity]](https://sus.fr/en/blog/)   | Kévin        | Personal / Rambling | Feed |
 |  [Rob Hope](https://robhope.com)   | Rob Hope        | Personal / Web | Feed |
 |  [Steelsnowflake](https://www.steelsnowflake.org/)   | Paul Wilke        | Arts & Humanities | Feed |
 |  [The View from Fanling](https://dennishodgson.blogspot.com)   | Dennis Hodgson        | Personal | Feed |
