@@ -46,20 +46,21 @@ I have started a discord server for those who are/want to be on the list and wou
 
 | Blog        | Author      | Description | RSS Feed |
 | ----------- | ----------- | ----------- | ----------- |
-|  [Alan Ralph - Wearer Of Many Hats](https://alanralph.co.uk)   | Alan Ralph        | Personal | Feed |
-|  [Carl Barenbrug](https://cmhb.de)   | Carl MH Barenbrug        | Personal / Design / Minimalism | Feed |
-| 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal / Random | Feed |
+|  [Alan Ralph - Wearer Of Many Hats](https://alanralph.co.uk)   | Alan Ralph        | Persona
+|  [Carl Barenbrug](https://cmhb.de)   | Carl MH Barenbrug        | Personal / Design / Minimalism
+| 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal / Random
 | [d-s](https://d-s.sh)   | d-s       | Personal / Tech / Media | [Feed](https://d-s.sh/index.xml) |
-| 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing | Feed |
+| 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing
 | 🌱 [foreverliketh.is](https://foreverliketh.is/blog/) | foreverliketh.is | Personal / Education / Psychology | [Feed](https://foreverliketh.is/blog/index.xml) |
-| 🌊 [Heed Not The Rolling Wave](https://adamenglebright.com/)   | [Adam Englebright](https://github.com/adamenglebright)        | Personal / Assorted | Feed |
+| 🌽 [Joshua Liu](https://www.joshualiu.org) | Joshua Liu | Poetry, writing & art.
+| 🌊 [Heed Not The Rolling Wave](https://adamenglebright.com/)   | [Adam Englebright](https://github.com/adamenglebright)        | Personal / Assorted
 | ☕️ [subtractiv](https://subtractiv.com)   | [Matthew](https://github.com/uxai)       | Technology / Product / Design |
 | 🤌🏽 [Luke Alex Davis](https://lukealexdavis.co.uk/)   | Luke Alex Davis       | Personal | [Feed](https://lukealexdavis.co.uk/blog.xml) |
-|  [Manuel Moreale](https://manuelmoreale.com)   | Manuel Moreale        | Personal / Photography | Feed |
+|  [Manuel Moreale](https://manuelmoreale.com)   | Manuel Moreale        | Personal / Photography
 | 🚀 [Mr James Bell](https://mrjamesbell.com)   | mrjamesbell        | Personal | Feed |
-| 🖤 [Oblivion With Bells](https://oblivionwithbells.com/m)   | [Dave Underwood](https://github.com/dave-underwood)        | Psychology/Existentialism | Feed |
-|  [Rob Hope](https://robhope.com)   | Rob Hope        | Personal / Web | Feed |
-|  [Steelsnowflake](https://www.steelsnowflake.org/)   | Paul Wilke        | Arts & Humanities | Feed |
-|  [The View from Fanling](https://dennishodgson.blogspot.com)   | Dennis Hodgson        | Personal | Feed |
-| 👋 [This is the internet weblog of Bix Frankonis.](https://bix.blog)   | Bix Frankonis       | Personal / Actually-Autistic / Random | Feed |
+| 🖤 [Oblivion With Bells](https://oblivionwithbells.com/m)   | [Dave Underwood](https://github.com/dave-underwood)        | Psychology/Existentialism
+|  [Rob Hope](https://robhope.com)   | Rob Hope        | Personal / Web
+|  [Steelsnowflake](https://www.steelsnowflake.org/)   | Paul Wilke        | Arts & Humanities
+|  [The View from Fanling](https://dennishodgson.blogspot.com)   | Dennis Hodgson        | Personal
+| 👋 [This is the internet weblog of Bix Frankonis.](https://bix.blog)   | Bix Frankonis       | Personal / Actually-Autistic / Random
 | ♾️ [Autistic As Fxxk](https://www.autisticasfxxk.com) | Rachel Tan | Personal / Autism / Neurodiversity | [Feed](https://www.autisticasfxxk.com/index.xml) |
