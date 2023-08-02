@@ -63,3 +63,4 @@ I have started a discord server for those who are/want to be on the list and wou
 |  [Steelsnowflake](https://www.steelsnowflake.org/)   | Paul Wilke        | Arts & Humanities | Feed |
 |  [The View from Fanling](https://dennishodgson.blogspot.com)   | Dennis Hodgson        | Personal | Feed |
 | 👋 [This is the internet weblog of Bix Frankonis.](https://bix.blog)   | Bix Frankonis       | Personal / Actually-Autistic / Random | Feed |
+| ♾️ [Autistic As Fxxk](https://www.autisticasfxxk.com) | Rachel Tan | Personal / Autism / Neurodiversity | [Feed](https://www.autisticasfxxk.com/index.xml) |
