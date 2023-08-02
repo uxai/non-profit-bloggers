@@ -21,6 +21,7 @@ To be added to this list, your blog should meet the following criteria:
 
 ### 📬 Submit your website
 Create a Pull request or create a new issue with the following information:
+If you want to invite someone who doesn't have github - file a [ticket here](https://todo.sr.ht/~cendol/non-profit-bloggers)
 1. Category
 2. Title of the blog
 3. URL
@@ -46,14 +47,13 @@ I have started a discord server for those who are/want to be on the list and wou
 | Blog        | Author      | Description | RSS Feed |
 | ----------- | ----------- | ----------- | ----------- |
 |  [Alan Ralph - Wearer Of Many Hats](https://alanralph.co.uk)   | Alan Ralph        | Personal | Feed |
-| 🖖 [Brandon Writes](https://www.brandonwrites.xyz)      | Brandon     | Hobby / Life | Feed |
 |  [Carl Barenbrug](https://cmhb.de)   | Carl MH Barenbrug        | Personal / Design / Minimalism | Feed |
 | 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal / Random | Feed |
 | [d-s](https://d-s.sh)   | d-s       | Personal / Tech / Media | [Feed](https://d-s.sh/index.xml) |
 | 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing | Feed |
 | 🌱 [foreverliketh.is](https://foreverliketh.is/blog/) | foreverliketh.is | Personal / Education / Psychology | [Feed](https://foreverliketh.is/blog/index.xml) |
 | 🌊 [Heed Not The Rolling Wave](https://adamenglebright.com/)   | [Adam Englebright](https://github.com/adamenglebright)        | Personal / Assorted | Feed |
-| ☕️ [KOPIGRAM](https://kopigram.com)   | [Matthew](https://github.com/uxai)       | Assorted topics | [Feed](https://rss.app/feeds/kOaduVouVIsxBsiU.xml) |
+| ☕️ [subtractiv](https://subtractiv.com)   | [Matthew](https://github.com/uxai)       | Technology / Product / Design |
 | 🤌🏽 [Luke Alex Davis](https://lukealexdavis.co.uk/)   | Luke Alex Davis       | Personal | [Feed](https://lukealexdavis.co.uk/blog.xml) |
 |  [Manuel Moreale](https://manuelmoreale.com)   | Manuel Moreale        | Personal / Photography | Feed |
 | 🚀 [Mr James Bell](https://mrjamesbell.com)   | mrjamesbell        | Personal | Feed |
