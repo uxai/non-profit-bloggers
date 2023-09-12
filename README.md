@@ -50,6 +50,7 @@ I have started a discord server for those who are/want to be on the list and wou
 |  [Carl Barenbrug](https://cmhb.de)   | Carl MH Barenbrug        | Personal / Design / Minimalism
 | 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal / Random
 | [d-s](https://d-s.sh)   | d-s       | Personal / Tech / Media | [Feed](https://d-s.sh/index.xml) |
+| 📓 [Daryl Sun's Journal](https://blog.darylsun.page/) | Daryl Sun | Personal | [Feed](https://blog.darylsun.page/rss.xml)
 | 🤓 [Excursions](https://amitgawande.com)   | [am1t](https://github.com/am1t)       | Personal / Life / Writing
 | 🌱 [foreverliketh.is](https://foreverliketh.is/blog/) | foreverliketh.is | Personal / Education / Psychology | [Feed](https://foreverliketh.is/blog/index.xml) |
 | 🌽 [Joshua Liu](https://www.joshualiu.org) | Joshua Liu | Poetry, writing & art.
