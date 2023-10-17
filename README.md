@@ -47,6 +47,7 @@ I have started a discord server for those who are/want to be on the list and wou
 | Blog        | Author      | Description | RSS Feed |
 | ----------- | ----------- | ----------- | ----------- |
 |  [Alan Ralph - Wearer Of Many Hats](https://alanralph.co.uk)   | Alan Ralph        | Persona
+| 🙃 [Birthplace of Process of Illogical Logic](https://www.nickifaulk.com)   | Nicki Faulki        | Personal / Life / Web | [Feed](https://nickifaulk.com/feed)
 |  [Carl Barenbrug](https://cmhb.de)   | Carl MH Barenbrug        | Personal / Design / Minimalism
 | 🤔 [Colin Walker](https://colinwalker.blog)   | [colin-walker](https://github.com/colin-walker)       | Personal / Random
 | [d-s](https://d-s.sh)   | d-s       | Personal / Tech / Media | [Feed](https://d-s.sh/index.xml) |
